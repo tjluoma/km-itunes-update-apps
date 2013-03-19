@@ -16,7 +16,7 @@ Until now.
 
 <hr >
 
-***Please note:* this macro is designed to work with iTunes 10. If you use iTunes 11 with a sidebar, you can probably adapt it to make it work there. I still prefer 10 so I'm sticking with it.***
+***Please note: this macro is designed to work with iTunes 10. If you use iTunes 11 with a sidebar, you can probably adapt it to make it work there. I still prefer 10 so I'm sticking with it.***
 
 <hr >
 
