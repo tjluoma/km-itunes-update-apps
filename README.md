@@ -14,11 +14,15 @@ Until now.
 
 [iTunes-Update-Apps.kmmacros] is a [Keyboard Maestro] macro designed to do just that.
 
+<hr >
+
+***Please note:* this macro is designed to work with iTunes 10. If you use iTunes 11 with a sidebar, you can probably adapt it to make it work there. I still prefer 10 so I'm sticking with it.***
+
+<hr >
+
 Here's what it looks like, and then I'll explain what each step does:
 
 ![screenshot of Keyboard Maestro macro](iTunes-Update-Apps.jpg)
-
-*Please note:* this macro is designed to work with iTunes 10. If you use iTunes 11 with a sidebar, you can probably adapt it to make it work there. I still prefer 10 so I'm sticking with it.*
 
 * **Triggered by pressing ⌥ + A** (I had a a Keyboard Maestro folder/group which is only active when iTunes is the active app, and this macro is in that group.
 
