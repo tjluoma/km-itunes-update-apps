@@ -59,6 +59,15 @@ That will move click the "Update All Apps" button near the top right corner of y
 We press the button (which may or may not exist, but we don't care because if it doesn't exist, it means there is no button to press and we are done anyway. I suppose I ought to put a conditional ("if") there but I didn't bother.
 
 
+## P.S. ##
+
+If you run into trouble with this macro not working, try increasing the amount of time it waits for iTunes to be ready for the next action, especially if you are not using an SSD.
+
+This sort of scripting is a ***very*** in-exact science, but hopefully this gives you a starting point. Also, iTunes seems to be much slower at finding updates the first time you check for them, which makes debugging this a bit of a pain.
+
+
+
+
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
 [iTunes-Update-Apps.kmmacros]: iTunes-Update-Apps.kmmacros
